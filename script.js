@@ -182,7 +182,7 @@ topBtn.addEventListener("click",()=>{
 const counter = document.getElementById("loveCounter");
 
 // Ganti tanggal ini sesuai awal cerita kalian
-const startDate = new Date("2026-07-04T00:00:00");
+const startDate = new Date("2026-05-23T20:39:00");
 
 function updateCounter(){
 
